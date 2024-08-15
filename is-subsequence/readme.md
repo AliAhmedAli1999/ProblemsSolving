@@ -27,9 +27,10 @@ Constraints:
 0 <= t.length <= 104
 s and t consist only of lowercase English letters.
 
-**Purpose:** The `isSubsequence` function determines whether the string `s` is a subsequence of the string `t`. A subsequence means that the characters of `s` appear in `t` in the same order, but not necessarily consecutively.
+### Purpose 
+ The `isSubsequence` function determines whether the string `s` is a subsequence of the string `t`. A subsequence means that the characters of `s` appear in `t` in the same order, but not necessarily consecutively.
 
-**Key Concepts:**
+### Key Concepts
 
 1.  **Two Pointers Technique:**
 
@@ -40,7 +41,7 @@ s and t consist only of lowercase English letters.
 
     -   A string `s` is considered a subsequence of `t` if you can remove some or none of the characters in `t` without changing the order of the remaining characters to get `s`.
 
-**Solution:**
+### Solution
 
 1.  **Initialization:**
 
