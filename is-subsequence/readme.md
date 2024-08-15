@@ -1,4 +1,4 @@
-# Gas Station
+# is-subsequence
 
 ## `Problem link `
 https://leetcode.com/problems/is-subsequence/description/
